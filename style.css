@@ -104,7 +104,7 @@ body{
 
 .pin-list{
     display: grid;
-    grid-template-columns: repeat(auto-fill, 250px);
+    grid-template-columns: repeat(auto-fill, 310px);
     gap: 5px;
     justify-content: center;
     padding-top: 40px;
@@ -117,7 +117,7 @@ body{
 }
 
 img{
-    max-width: 100%;
+    width: 100%;
 }
 
 .level-1{
